@@ -100,31 +100,31 @@
       {
         "title":"Congo",
         "category":"Amazon redesigned",
-        "image":"canadian-wanderlust.jpg",
+        "image":"congo.png",
         "url":"https://github.com/DaySloth/Project3"
       },
       {
         "title":"Sound Finder",
         "category":"Discover new artists and info.",
-        "image":"fury-fighting-gear.jpg",
+        "image":"soundfinder.png",
         "url":"https://arrow913.github.io/soundfinder/"
       },
       {
         "title":"UniverCITY",
         "category":"Reviews of your local college city.",
-        "image":"original-thai-food.jpg",
-        "url":"https://github.com/carsonsavage/UniverCITY"
+        "image":"univercity.png",
+        "url":"https://stark-beyond-63897.herokuapp.com/"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
+        "image":"resumewebsite.png",
         "url":"http://www.timbakerdev.com"
       },
       {
         "title":"Weather Dashboard",
         "category":"Search current and other location's weather stats.",
-        "image":"smirkspace.jpg",
+        "image":"weatherdashboard.png",
         "url":"https://carsonsavage.github.io/weather-dashboard"
       }
     ]
