@@ -39,7 +39,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"Vanderbilt University",
@@ -71,7 +71,7 @@
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"50%"
       },
       {
         "name":"ReactJs",
@@ -79,19 +79,19 @@
       },
       {
         "name":"CSS",
-        "level":"80%"
+        "level":"70%"
       },
       {
         "name":"HTML5",
-        "level":"90%"
+        "level":"80%"
       },
       {
         "name":"Node",
-        "level":"50%"
+        "level":"40%"
       },
       {
         "name":"MongoDB",
-        "level":"50%"
+        "level":"40%"
       }
     ]
   },
