@@ -126,6 +126,12 @@
         "category":"Search current and other location's weather stats.",
         "image":"weatherdashboard.png",
         "url":"https://carsonsavage.github.io/weather-dashboard"
+      },
+      {
+        "title":"Portfolio",
+        "category":"Portfolio built with HTML, JS, CSS",
+        "image":"portfolio.png",
+        "url":"https://carsonsavage.github.io/portfolio-updated/portfolio.html"
       }
     ]
   }
